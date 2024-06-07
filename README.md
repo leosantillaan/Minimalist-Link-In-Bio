@@ -6,7 +6,7 @@
   <span style="width: 8px;"> </span>
   <span style="width: 8px;"> </span>
   <a class = "link" href="https://buymeacoffee.com/byleo" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" 
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" 
        style="height: 40px !important;width: 144px !important;">
   </a>
 </p>
