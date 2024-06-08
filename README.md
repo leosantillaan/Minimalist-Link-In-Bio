@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <h2 align="center">Link in Bio - Created By Leonel</h2>
+   <h2 align="center">Created By Leonel</h2>
 </p>
 
 <p align="center">
